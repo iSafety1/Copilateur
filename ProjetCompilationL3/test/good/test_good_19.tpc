@@ -1,0 +1,9 @@
+char obtenirLettre(void) {
+    return 'Z';
+}
+
+int main(void) {
+    char c;
+    c = obtenirLettre();
+    return 0;
+}

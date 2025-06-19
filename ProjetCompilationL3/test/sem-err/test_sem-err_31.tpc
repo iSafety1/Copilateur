@@ -1,0 +1,9 @@
+void sayHello(void) {
+    putchar('H');
+}
+
+int main(void) {
+    int a;
+    a = sayHello();
+    return 0;
+}

@@ -1,0 +1,6 @@
+int f(int x, int x) {
+    return 1;
+}
+int main(void) {
+    return 0;
+}

@@ -1,0 +1,10 @@
+int main(void) {
+    int a;
+    int b;
+    a = 3;
+    b = 7;
+    if (a < b) {
+        b = b - a;
+    }
+    return b;
+}

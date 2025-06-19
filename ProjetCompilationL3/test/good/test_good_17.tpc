@@ -1,0 +1,10 @@
+char getLettre(void) {
+    return 'A';
+}
+
+int main(void) {
+    char lettre;
+    lettre = getLettre();
+    putchar(lettre);
+    return 0;
+}

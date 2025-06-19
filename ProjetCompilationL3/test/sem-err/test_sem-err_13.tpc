@@ -1,0 +1,6 @@
+void f(int a) {}
+int main(void) {
+    int a ;
+    a= f() + 1;
+    return a;
+}

@@ -1,0 +1,6 @@
+int main(void) {
+    static int compteur;
+    compteur = 5;
+    putint(compteur);
+    return 0;
+}

@@ -1,0 +1,8 @@
+char f(void) { 
+    return getint();
+     } 
+
+
+int main(void) { 
+    return 0; 
+    }

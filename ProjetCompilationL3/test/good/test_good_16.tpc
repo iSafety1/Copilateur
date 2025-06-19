@@ -1,0 +1,9 @@
+int main(void) {
+    int age;
+    char initiale;
+    age = getint();
+    initiale = getchar();
+    putchar(initiale);
+    putint(age);
+    return 0;
+}
